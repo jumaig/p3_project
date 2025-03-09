@@ -15,7 +15,7 @@ This analysis aims to predict customer churn for SyriaTel, a telecommunications 
 SyriaTel is facing revenue losses as customers discontinue their services. Without a clear understanding of the factors driving churn, the company cannot effectively address the underlying issues. This analysis:
 - Identifies and examines patterns in customer behavior that signal potential churn.
 - Provides visual evidence of these trends through various plots.
-- Suggests areas where SyriaTel might improve its customer retention strategies.
+- Suggest areas where SyriaTel might improve its customer retention strategies.
 
 ---
 
@@ -23,7 +23,7 @@ SyriaTel is facing revenue losses as customers discontinue their services. Witho
 
 - **Predict Customer Churn:** Utilize statistical and machine learning techniques to forecast which customers are most likely to leave.
 - **Identify Key Drivers:** Understand the factors that contribute most significantly to customer churn.
-- **Visual Data Analysis:** Present clear and insightful visualizations to aid in the interpretation of the analysis.
+- **Data Analysis:** Present clear and insightful visualizations to aid in the interpretation of the analysis.
 - **Actionable Insights:** Provide recommendations to assist SyriaTel in reducing churn and minimizing revenue loss.
 
 ---
