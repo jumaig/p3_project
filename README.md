@@ -111,7 +111,7 @@ This analysis provides a robust framework for understanding and predicting custo
 ---
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](./index.ipynb) or review this [presentation](./RilsoftStudioInsights.pdf).
+See the full analysis in the [Jupyter Notebook](./index.ipynb) or review this [presentation](./presentation.pdf).
 
 For additional info, contact 
 Isaiah at [isaiah.juma@student.moringaschool.com](mailto:isaiah.juma@student.moringaschool.com)
