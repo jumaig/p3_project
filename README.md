@@ -59,9 +59,32 @@ The notebook follows a systematic approach to analyze customer churn:
 
 The notebook includes a series of visualizations designed to provide a clear, intuitive understanding of customer churn dynamics. Below are the embedded visualizations:
 
-### Customer Service
+### Customer Service call Vs. Churn
 ![Customer](./images/customerservice.png)
 
+### International call Vs. International plan
+![international](./images/internationalplan.png)
+
+### Churn Vs. Total Minutes
+![totalminutes](./images/totalminutes.png)
+
+### Logistic Regression
+![logistic](./images/tunedlogistic.png)
+
+### Decision Tree
+![decision](./images/tunedDecision.png)
+
+### Random Forest
+![random](./images/tunedforest.png)
+
+### SVM
+![svm](./images/tunedsvm.png)
+
+### KNN
+![knn](./images/tunedKNN.png)
+
+### Naive Bayes
+![svm](./images/tunednaive.png)
 
 *Note: The visualizations above provide insights into the distribution of key variables, the correlations between them, and the performance of the predictive model.*
 
