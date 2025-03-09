@@ -55,39 +55,13 @@ The notebook follows a systematic approach to analyze customer churn:
 
 ---
 
-## Visualizations
+## Visualizations Result
 
 The notebook includes a series of visualizations designed to provide a clear, intuitive understanding of customer churn dynamics. Below are the embedded visualizations:
 
-### Visualization 1
-<img src="data:image/png;base64,{{visualizations[0]}}" alt="Visualization 1" />
+### Customer Service
+![Customer](./images/customerservice.png)
 
-### Visualization 2
-<img src="data:image/png;base64,{{visualizations[1]}}" alt="Visualization 2" />
-
-### Visualization 3
-<img src="data:image/png;base64,{{visualizations[2]}}" alt="Visualization 3" />
-
-### Visualization 4
-<img src="data:image/png;base64,{{visualizations[3]}}" alt="Visualization 4" />
-
-### Visualization 5
-<img src="data:image/png;base64,{{visualizations[4]}}" alt="Visualization 5" />
-
-### Visualization 6
-<img src="data:image/png;base64,{{visualizations[5]}}" alt="Visualization 6" />
-
-### Visualization 7
-<img src="data:image/png;base64,{{visualizations[6]}}" alt="Visualization 7" />
-
-### Visualization 8
-<img src="data:image/png;base64,{{visualizations[7]}}" alt="Visualization 8" />
-
-### Visualization 9
-<img src="data:image/png;base64,{{visualizations[8]}}" alt="Visualization 9" />
-
-### Visualization 10
-<img src="data:image/png;base64,{{visualizations[9]}}" alt="Visualization 10" />
 
 *Note: The visualizations above provide insights into the distribution of key variables, the correlations between them, and the performance of the predictive model.*
 
